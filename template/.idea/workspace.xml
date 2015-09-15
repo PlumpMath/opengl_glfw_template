@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="step1" targetName="sharing" />
+      <config projectName="step1" targetName="Gears" />
+      <config projectName="step1" targetName="Heightmap" />
+      <config projectName="template" targetName="template" />
+      <config projectName="step1" targetName="joysticks" />
+      <config projectName="step1" targetName="cursor" />
+      <config projectName="step1" targetName="gamma" />
+      <config projectName="step1" targetName="events" />
+      <config projectName="step1" targetName="Particles" />
+      <config projectName="project" targetName="project" />
+      <config projectName="step1" targetName="SplitView" />
+      <config projectName="step1" targetName="title" />
+      <config projectName="step1" targetName="step1" />
+      <config projectName="step1" targetName="Wave" />
+      <config projectName="step1" targetName="fsaa" />
+      <config projectName="step1" targetName="Boing" />
+      <config projectName="step1" targetName="iconify" />
+      <config projectName="step1" targetName="uninstall" />
+      <config projectName="step1" targetName="glfwinfo" />
+      <config projectName="step1" targetName="monitors" />
+      <config projectName="step1" targetName="glfw" />
+      <config projectName="step1" targetName="peter" />
+      <config projectName="step1" targetName="windows" />
+      <config projectName="step1" targetName="empty" />
+      <config projectName="step1" targetName="defaults" />
+      <config projectName="step1" targetName="clipboard" />
+      <config projectName="step1" targetName="reopen" />
+      <config projectName="step1" targetName="threads" />
+      <config projectName="step1" targetName="Simple" />
+      <config projectName="step1" targetName="tearing" />
+      <config projectName="step1" targetName="accuracy" />
+      <config projectName="step1" targetName="cursoranim" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be4b2aab-021e-4f28-801b-18dd6a520890" name="Default" comment="" />
+    <ignored path="template.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="template" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45517242">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="glfw-3.1.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.step1">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="template" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="template">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Boing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Boing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Boing">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Gears" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Gears" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Gears">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Heightmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Heightmap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Heightmap">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Particles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Particles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Particles">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Simple" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Simple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Simple">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SplitView" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="SplitView" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="SplitView">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Wave" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="Wave" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="Wave">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="accuracy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="accuracy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="accuracy">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="clipboard" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="clipboard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="clipboard">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cursor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="cursor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="cursor">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cursoranim" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="cursoranim" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="cursoranim">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="defaults" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="defaults" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="defaults">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="empty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="empty">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="events" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="events" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="events">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="fsaa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="fsaa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="fsaa">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gamma" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="gamma" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="gamma">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="glfwinfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="glfwinfo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="glfwinfo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="iconify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="iconify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="iconify">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="joysticks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="joysticks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="joysticks">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="monitors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="monitors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="monitors">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="peter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="peter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="peter">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="reopen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="reopen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="reopen">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sharing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="sharing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="sharing">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="tearing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="tearing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="tearing">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="threads" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="threads" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="threads">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="title" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="title" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="title">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="windows" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="step1" TARGET_NAME="windows" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="step1" RUN_TARGET_NAME="windows">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="step1" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project">
+      <envs />
+      <method />
+    </configuration>
+    <list size="33">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.template" />
+      <item index="2" class="java.lang.String" itemvalue="Application.uninstall" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Boing" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Gears" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Heightmap" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Particles" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Simple" />
+      <item index="8" class="java.lang.String" itemvalue="Application.SplitView" />
+      <item index="9" class="java.lang.String" itemvalue="Application.Wave" />
+      <item index="10" class="java.lang.String" itemvalue="Application.glfw" />
+      <item index="11" class="java.lang.String" itemvalue="Application.accuracy" />
+      <item index="12" class="java.lang.String" itemvalue="Application.clipboard" />
+      <item index="13" class="java.lang.String" itemvalue="Application.cursor" />
+      <item index="14" class="java.lang.String" itemvalue="Application.cursoranim" />
+      <item index="15" class="java.lang.String" itemvalue="Application.defaults" />
+      <item index="16" class="java.lang.String" itemvalue="Application.empty" />
+      <item index="17" class="java.lang.String" itemvalue="Application.events" />
+      <item index="18" class="java.lang.String" itemvalue="Application.fsaa" />
+      <item index="19" class="java.lang.String" itemvalue="Application.gamma" />
+      <item index="20" class="java.lang.String" itemvalue="Application.glfwinfo" />
+      <item index="21" class="java.lang.String" itemvalue="Application.iconify" />
+      <item index="22" class="java.lang.String" itemvalue="Application.joysticks" />
+      <item index="23" class="java.lang.String" itemvalue="Application.monitors" />
+      <item index="24" class="java.lang.String" itemvalue="Application.peter" />
+      <item index="25" class="java.lang.String" itemvalue="Application.reopen" />
+      <item index="26" class="java.lang.String" itemvalue="Application.sharing" />
+      <item index="27" class="java.lang.String" itemvalue="Application.tearing" />
+      <item index="28" class="java.lang.String" itemvalue="Application.threads" />
+      <item index="29" class="java.lang.String" itemvalue="Application.title" />
+      <item index="30" class="java.lang.String" itemvalue="Application.windows" />
+      <item index="31" class="java.lang.String" itemvalue="Application.project" />
+      <item index="32" class="java.lang.String" itemvalue="Application.step1" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4b2aab-021e-4f28-801b-18dd6a520890" name="Default" comment="" />
+      <created>1440835911396</created>
+      <option name="number" value="Default" />
+      <updated>1440835911396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45517242">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
